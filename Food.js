@@ -1,4 +1,4 @@
-function Food(props){
+function Food(props){        //좋아하는 맛집
     return(
         <div className="list">
         <h3>{props.name}</h3>

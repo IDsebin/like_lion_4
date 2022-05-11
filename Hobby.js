@@ -1,4 +1,4 @@
-function Hobby(props){
+function Hobby(props){       //취미
     return(
         <div className="list">
         <h3>{props.name}</h3>
