@@ -1,4 +1,4 @@
-/* eslint-disable */   //사소한 경고 없애기  
+/* eslint-disable */    //사소한 경고 나타나지 않게하기 
 import Hometown from './Hometown';
 import Food from './Food';
 import logo from './logo.svg';

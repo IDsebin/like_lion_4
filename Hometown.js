@@ -1,4 +1,4 @@
-function Hometown(props){
+function Hometown(props){      //고향
     return(
         <div className="list">
           <h3>{ props.name }</h3>
